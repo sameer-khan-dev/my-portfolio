@@ -1,6 +1,6 @@
 # Sameer Khan — Frontend Developer Portfolio
 
--🙎‍♂️![Portfolio](https://sameer-khan-dev.github.io/my-portfolio/)
+-🙎‍♂️[Portfolio](https://sameer-khan-dev.github.io/my-portfolio/)
 
 **Repo:** [GitHub](https://github.com/sameer-khan-dev/my-portfolio)
 
