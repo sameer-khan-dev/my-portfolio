@@ -20,7 +20,7 @@ function Navbar(){
         </a>
         <span className='sm:hidden text-xl  text-[#a78bfa]'>
         <i className="fa-solid fa-bars relative" onClick={activeBar}></i>
-         {isBar?<div><HomeBar/></div>:null}
+         {isBar?<div><HomeBar changer={activeBar}/></div>:null}
         </span>
         </div>
     );
